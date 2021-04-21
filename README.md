@@ -19,3 +19,19 @@ Camera.lookAt();
 Vector3
 
 Groups
+
+# Lesson 4
+
+Date and Clock
+
+# Lesson 5
+
+Animation and GSAP
+
+# Lesson 6
+
+Cameras (Perspective, Ortogonal (ratio problem))
+
+# Lesson 7
+
+Control camera with mouse, Three control classes, OrbitControls, Dumping
