@@ -35,3 +35,7 @@ Cameras (Perspective, Ortogonal (ratio problem))
 # Lesson 7
 
 Control camera with mouse, Three control classes, OrbitControls, Dumping
+
+# Lesson 8
+
+Resize cavas, Pixel ratio, Fullscreen
