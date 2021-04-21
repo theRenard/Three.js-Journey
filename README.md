@@ -51,3 +51,7 @@ Geometries: Many native geometries and buffer geometry
 # Lesson 10
 
 Debug GUI
+
+# Lesson 11
+
+Webpack paths, Load image, create Texture, textureLoader, loadingManager, UV coordinates, Filtering, Mip Mapping, Nearest/Linear Filters.
