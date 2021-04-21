@@ -43,3 +43,7 @@ Control camera with mouse, Three control classes, OrbitControls, Dumping
 # Lesson 8
 
 Resize cavas, Pixel ratio, Fullscreen
+
+# Lesson 9
+
+Geometries: Many native geometries and buffer geometry
