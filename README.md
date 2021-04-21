@@ -47,3 +47,7 @@ Resize cavas, Pixel ratio, Fullscreen
 # Lesson 9
 
 Geometries: Many native geometries and buffer geometry
+
+# Lesson 10
+
+Debug GUI
