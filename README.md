@@ -55,3 +55,10 @@ Debug GUI
 # Lesson 11
 
 Webpack paths, Load image, create Texture, textureLoader, loadingManager, UV coordinates, Filtering, Mip Mapping, Nearest/Linear Filters.
+
+# Lesson 12
+
+A comprehensive list of all three.js materials
+# Lesson 13
+
+FontLoader, TextBufferGeometry, computeBoundingBox, center,
