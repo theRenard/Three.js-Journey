@@ -62,3 +62,7 @@ A comprehensive list of all three.js materials
 # Lesson 13
 
 FontLoader, TextBufferGeometry, computeBoundingBox, center,
+
+# Lesson 14
+
+AmbientLight, DirectionalLight, HemisphereLight, PointLight, RectAreaLight, SpotLight, Helpers
