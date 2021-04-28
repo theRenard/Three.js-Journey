@@ -66,3 +66,7 @@ FontLoader, TextBufferGeometry, computeBoundingBox, center,
 # Lesson 14
 
 AmbientLight, DirectionalLight, HemisphereLight, PointLight, RectAreaLight, SpotLight, Helpers
+
+# Lesson 15
+
+castShadow, receiveShadow, optimize camera far/near/sizes, backing shadows.
