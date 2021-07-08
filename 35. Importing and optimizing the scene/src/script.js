@@ -67,6 +67,7 @@ gltfLoader.load('portal.glb', (gltf) => {
     })
 
     const streetLines = gltf.scene.children.find(child => child.name === 'lines');
+    streetLines.position.y += 0.0001;
 
     streetLines.material = bakedStreetMaterial;
 
